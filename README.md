@@ -16,8 +16,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am ZAKARIA BENJEDDI </h1>
 <h3 align="center">Full Stack Developer </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/zakariabenjeddi/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linkedin" height="30" width="40" /></a>  
-<a href="https://www.instagram.com/zakaria_benjeddi/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="instagram" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zakaria-ben-jeddi-509418299/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linkedin" height="30" width="40" /></a>  
 <a href="mailto:zakariabenjeddi@example.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 </p>
@@ -28,7 +27,7 @@
     I am <b>dedicated</b> to learning and leveraging the latest technologies to solve real-world problems and deliver impactful solutions.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought: "Code is like humor. When you have to explain it, it’s bad."</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought: "Code should be clear; if it needs explaining, it’s not right."</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
