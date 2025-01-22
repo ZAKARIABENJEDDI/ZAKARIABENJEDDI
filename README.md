@@ -16,9 +16,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am ZAKARIA BENJEDDI </h1>
 <h3 align="center">Full Stack Developer </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/zakariabenjeddi/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linkedin" height="30" width="40" /></a>  
-<a href="https://www.instagram.com/zakaria_benjeddi/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="instagram" height="30" width="40" /></a>
-<a href="mailto:zakariabenjeddi@example.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+<a href="mailto:zakariabenjeddi22@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 </p>
 
@@ -43,16 +41,15 @@
  
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/php-ar21.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/graphql/mongodb-ar21.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 </p>
 <hr>
 <p align="center">
