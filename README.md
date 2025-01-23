@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=zakariabenjeddi&color=brightgreen" alt="profile_views" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-26-blue" />
+<img src="https://img.shields.io/badge/Age-19-blue" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Morocco-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20French-brightgreen" />
