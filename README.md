@@ -34,10 +34,8 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Pronouns: ***He/Him*** 😊 <br>
 ✔ I’m currently working on building scalable and maintainable web applications<br>
 ✔ I’m looking to collaborate on **Open Source projects**<br>
-✔ Fun fact: *I love debugging more than coding!* 😎<br><br><br><br>
  
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
